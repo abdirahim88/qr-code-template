@@ -22,12 +22,15 @@ module.exports = {
     spacing : {
       200 : '16px',
       300 : '24px',
+      320 : '320px',
       400 : '40px',
+    },
+    borderRadius : {
+      100 : '10px',
+      200 : '20px',
     },
     colors : {
       White: 'hsl(0, 0%, 100%)',
-      // Slate300: 'hsl(212, 45%, 89%)',
-      // Slate500: 'hsl(216, 15%, 48%)',
       Slate : {
         300 : 'hsl(212, 45%, 89%)',
         500 : 'hsl(216, 15%, 48%)',
