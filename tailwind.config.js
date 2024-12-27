@@ -29,6 +29,9 @@ module.exports = {
       100 : '10px',
       200 : '20px',
     },
+    boxShadow: {
+      cardShadow: '0px 25px 25px 0px rgba(0, 0, 0, 0.0477)', 
+    },
     colors : {
       White: 'hsl(0, 0%, 100%)',
       Slate : {
