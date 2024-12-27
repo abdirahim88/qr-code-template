@@ -644,6 +644,11 @@ video {
   color: hsl(216 15% 48% / var(--tw-text-opacity, 1));
 }
 
+.text-Slate-900 {
+  --tw-text-opacity: 1;
+  color: hsl(218 44% 22% / var(--tw-text-opacity, 1));
+}
+
 .shadow-cardShadow {
   --tw-shadow: 0px 25px 25px 0px rgba(0, 0, 0, 0.0477);
   --tw-shadow-colored: 0px 25px 25px 0px var(--tw-shadow-color);
